@@ -16,6 +16,10 @@ function App() {
     
     <>
       {/* Tu dodajemy swój component
+      <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */} 
+     <gi></gi>
+        ddd
+      
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
       <Designer></Designer>
       <Toggle/>
