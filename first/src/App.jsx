@@ -1,3 +1,5 @@
+import RudiakTest from './components/MrLudrik/Denys Panasiuk/RudiakTest'
+
 
 function App() {
 
@@ -5,7 +7,7 @@ function App() {
     <>
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
-
+      <RudiakTest/>
       
     </>
   )

@@ -1,5 +1,8 @@
-import './components/MrLudrik/Denys Panasiuk/MrLudrik.css'
-import Image from './components/MrLudrik/Denys Panasiuk/img/rudiak.jpg'
+// import './components/MrLudrik/Denys Panasiuk/MrLudrik.css'
+// import Image from './components/MrLudrik/Denys Panasiuk/img/rudiak.jpg'
+
+import './MrLudrik.css'
+import Image from './img/rudiak.jpg'
 
 /*MrLudrik */
 function InfoBoard({children}) {
@@ -11,7 +14,7 @@ function InfoBoard({children}) {
   )
 }
 
-function App() {
+function RudiakTest() {
   return (
     <InfoBoard>
       <img src={Image} alt="" />
@@ -21,4 +24,4 @@ function App() {
   )
 }
 
-export default App
+export default RudiakTest
