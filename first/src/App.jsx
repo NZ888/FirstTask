@@ -4,8 +4,9 @@ function App() {
   return (
     <>
       {/* Tu dodajemy swój component
-      <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
-
+      <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */} 
+     <gi></gi>
+        ddd
       
     </>
   )
