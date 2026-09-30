@@ -1,3 +1,4 @@
+import BogButton from "./components/bogdan/bogdan"
 import textH1 from "./components/oleksandr-dmytruk"
 import Cer4pus2ka from './components/Cer4pus2ka/Cer4pus2ka.jsx'
 import NikonsBtn from "./components/NikonZahoruiko/component"
@@ -12,6 +13,7 @@ function App() {
       
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
+      <BogButton></BogButton>
       <NikonsBtn></NikonsBtn>
       <RudiakTest/>
       <textH1></textH1>
