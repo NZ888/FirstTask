@@ -1,10 +1,9 @@
-
+import component from "first/src/components/oleksii/anus.jsx";
 function App() {
 
   return (
     <>
-      {/* Tu dodajemy swój component
-      <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
+      <component />
 
       
     </>
