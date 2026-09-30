@@ -1,3 +1,4 @@
+import BogButton from "./components/bogdan/bogdan"
 
 function App() {
 
@@ -5,7 +6,7 @@ function App() {
     <>
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
-
+    <BogButton></BogButton>
       
     </>
   )
