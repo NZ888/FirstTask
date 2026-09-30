@@ -1,4 +1,5 @@
 import Designer from "./components/Selva/component"
+import Toggle from "first/src/components/IlliaShum/componentNikonBartovWypustil.jsx"
 import Maksym from "./components/maks/maks"
 import BogButton from "./components/bogdan/bogdan"
 import textH1 from "./components/oleksandr-dmytruk"
@@ -14,11 +15,10 @@ function App() {
 
     
     <>
-
-      
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
       <Designer></Designer>
+      <Toggle/>
       <Maksym></Maksym>
       <BogButton></BogButton>
       <NikonsBtn></NikonsBtn>
