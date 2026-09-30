@@ -1,3 +1,4 @@
+import Designer from "./components/Selva/component"
 
 function App() {
 
@@ -5,7 +6,7 @@ function App() {
     <>
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
-
+<Designer></Designer>
       
     </>
   )
