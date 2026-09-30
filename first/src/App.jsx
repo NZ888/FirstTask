@@ -8,7 +8,8 @@ function App() {
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
       <RudiakTest/>
-      
+      <textH1></textH1>
+   
     </>
   )
 }
