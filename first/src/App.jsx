@@ -1,12 +1,10 @@
+import component from "first/src/components/IlliaShum/componentNikonBartovWypustil.jsx";
 
 function App() {
 
   return (
     <>
-      {/* Tu dodajemy swój component
-      <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
-
-      
+      <component />
     </>
   )
 }
