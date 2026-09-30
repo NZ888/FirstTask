@@ -1,9 +1,9 @@
-import component from "first/src/components/oleksii/anus.jsx";
+import Hello from "./components/oleksii/anu";
 function App() {
 
   return (
     <>
-      <component />
+      <Hello />
 
       
     </>
