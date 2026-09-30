@@ -1,6 +1,5 @@
 import NikonsBtn from "./components/NikonZahoruiko/component"
-import RudiakTest from './components/MrLudrik/Denys Panasiuk/RudiakTest'
-
+import RudiakTest from './components/MrLudrik/Denys Panasiuk/MrLudrik.jsx'
 
 function App() {
 
