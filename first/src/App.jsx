@@ -6,6 +6,7 @@ function App() {
       {/* Tu dodajemy swój component
       <NazwaWaszegoComponentu></NazwaWaszegoComponentu> */}
 
+      <textH1></textH1>
       
     </>
   )
